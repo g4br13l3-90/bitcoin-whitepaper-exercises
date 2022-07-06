@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/g4br13l3-90/bitcoin-whitepaper-exercises/issues"
   },
-  "homepage": "https://github.com/g4br13l3-90/bitcoin-whitepaper-exercises#readme"
+  "homepage": "https://github.com/g4br13l3-90/bitcoin-whitepaper-exercises#readme",
+  "dependencies": {
+    "openpgp": "^5.3.1"
+  }
 }
